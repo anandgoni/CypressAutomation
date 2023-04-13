@@ -1,0 +1,20 @@
+
+[
+        {
+            "firstName":"James",
+            "lastName":"Bond",
+            "emailAddr":"abcded@brighthr.com",
+            "phoneeNum":"09888888877",
+            "startDate":"22-May-2024",
+            "jobtitle":"QA Eng"
+
+        },
+        {
+            "firstName":"Tester1",
+            "lastName":"Automation",
+            "emailAddr":"Tester1@brighthr.com",
+            "phoneeNum":"07756565799",
+            "startDate":"26-Jun-2023",
+            "jobtitle":"QA"
+          }
+]
